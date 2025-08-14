@@ -1,5 +1,5 @@
 # CRISP: Contrastive Residual Injection and Semantic Prompting for Continual Video Instance Segmentation
-**Author**: Baichen Liu, Qi Lyu, Xudong Wang, Jiahua Dong, Zhi Han, Lianqing Liu
+**Author**: Baichen Liu, Qi Lyu, Xudong Wang, Jiahua Dong, Lianqing Liu, Zhi Han
 
 ## 🚀News
 
